@@ -6,5 +6,5 @@ The objective is to obtain crticial parameters for runaway at steady state and t
 A finite difference discretization is done in the spatial domain. The resulting discretized ordinary differential equations are stiff and require stiff solvers. One such solver is ode15s in MATLAB 
 
 About the model:-
-The model consists of 3 semi-linear PDE. They consist of mass fluid phase temeprature and wall temperature conservation equations in one dimensional equations. 
+The model consists of 3 semi-linear PDE. They consist of one dimensional mass, fluid phase temeprature and wall temperature conservation equations. 
 
